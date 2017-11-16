@@ -56,3 +56,8 @@ Before start our first configuration we need to know the password Jenkins genera
 ```
 this will print a password that we have to use once. Go to your browser and type: [http://localhost:8001/](http://localhost:8001/) and follow the firsrun instructions and That's all!
    
+### References:
+[https://jenkins.io/doc/book/installing/#debian-ubuntu](https://jenkins.io/doc/book/installing/#debian-ubuntu)
+[https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Ubuntu](https://wiki.jenkins.io/display/JENKINS/Installing+Jenkins+on+Ubuntu)
+[https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-16-04](https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-16-04)
+[https://www.jorgedelacruz.es/2017/02/14/jenkins-2-instalacion-de-jenkins-en-ubuntu/](https://www.jorgedelacruz.es/2017/02/14/jenkins-2-instalacion-de-jenkins-en-ubuntu/)
